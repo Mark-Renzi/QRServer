@@ -1,0 +1,124 @@
+2022-11-09 16:45:23 Configured host
+2022-11-09 16:45:23 Assigned socket
+2022-11-09 16:45:23 Bound socket
+2022-11-09 16:45:23 Listening for incoming connections
+2022-11-09 16:45:30 127.0.0.1 accepting new connection
+2022-11-09 16:45:30 127.0.0.1 sent URL
+2022-11-09 17:01:54 Configured host
+2022-11-09 17:01:54 Assigned socket
+2022-11-09 17:01:54 Bound socket
+2022-11-09 17:01:54 Listening for incoming connections
+2022-11-09 17:07:42 Configured host
+2022-11-09 17:07:42 Assigned socket
+2022-11-09 17:07:42 Bound socket
+2022-11-09 17:07:42 Listening for incoming connections
+2022-11-09 17:26:27 Configured host
+2022-11-09 17:26:27 Assigned socket
+2022-11-09 17:26:27 Bound socket
+2022-11-09 17:26:27 Listening for incoming connections
+2022-11-09 17:26:29 127.0.0.1 accepting new connection
+2022-11-09 17:26:30 127.0.0.1 sent URL
+2022-11-09 17:26:36 127.0.0.1 accepting new connection
+2022-11-09 17:26:36 127.0.0.1 sent URL
+2022-11-09 17:46:53 Configured host
+2022-11-09 17:46:53 Assigned socket
+2022-11-09 17:46:53 Bound socket
+2022-11-09 17:46:53 Listening for incoming connections
+2022-11-09 17:47:01 127.0.0.1 accepting new connection
+2022-11-09 17:47:01 127.0.0.1 sent URL
+2022-11-09 17:47:49 Configured host
+2022-11-09 17:47:49 Assigned socket
+2022-11-09 17:47:49 Bound socket
+2022-11-09 17:47:49 Listening for incoming connections
+2022-11-09 17:47:56 127.0.0.1 accepting new connection
+2022-11-09 17:47:56 127.0.0.1 sent URL
+2022-11-09 17:48:01 127.0.0.1 accepting new connection
+2022-11-09 17:48:01 127.0.0.1 sent URL
+2022-11-09 17:48:06 127.0.0.1 accepting new connection
+2022-11-09 17:48:06 127.0.0.1 sent URL
+2022-11-09 17:48:11 127.0.0.1 accepting new connection
+2022-11-09 17:48:11 127.0.0.1 sent URL
+2022-11-09 17:48:16 127.0.0.1 accepting new connection
+2022-11-09 17:48:16 127.0.0.1 WARNING: RATE LIMIT EXCEEDED
+2022-11-09 18:25:44 Configured host
+2022-11-09 18:25:44 Assigned socket
+2022-11-09 18:25:44 Bound socket
+2022-11-09 18:25:44 Listening for incoming connections
+2022-11-09 18:25:55 127.0.0.1 accepting new connection
+2022-11-09 18:25:55 127.0.0.1 WARNING: RATE LIMIT EXCEEDED
+2022-11-09 18:26:34 127.0.0.1 accepting new connection
+2022-11-09 18:26:34 127.0.0.1 WARNING: RATE LIMIT EXCEEDED
+2022-11-09 18:27:03 Configured host
+2022-11-09 18:27:03 Assigned socket
+2022-11-09 18:27:03 Bound socket
+2022-11-09 18:27:03 Listening for incoming connections
+2022-11-09 18:27:05 127.0.0.1 accepting new connection
+2022-11-09 18:27:05 127.0.0.1 WARNING: RATE LIMIT EXCEEDED
+2022-11-09 18:27:16 127.0.0.1 accepting new connection
+2022-11-09 18:27:16 127.0.0.1 WARNING: RATE LIMIT EXCEEDED
+2022-11-09 18:27:37 Configured host
+2022-11-09 18:27:37 Assigned socket
+2022-11-09 18:27:37 Bound socket
+2022-11-09 18:27:37 Listening for incoming connections
+2022-11-09 18:27:39 127.0.0.1 accepting new connection
+2022-11-09 18:27:39 127.0.0.1 WARNING: RATE LIMIT EXCEEDED
+2022-11-09 18:27:44 127.0.0.1 accepting new connection
+2022-11-09 18:27:44 127.0.0.1 WARNING: RATE LIMIT EXCEEDED
+2022-11-09 18:31:27 Configured host
+2022-11-09 18:31:27 Assigned socket
+2022-11-09 18:31:27 Bound socket
+2022-11-09 18:31:27 Listening for incoming connections
+2022-11-09 18:31:30 127.0.0.1 accepting new connection
+2022-11-09 18:31:30 127.0.0.1 sent URL
+2022-11-09 18:39:34 Configured host
+2022-11-09 18:39:34 Assigned socket
+2022-11-09 18:39:34 Bound socket
+2022-11-09 18:39:34 Listening for incoming connections
+2022-11-09 18:39:39 127.0.0.1 accepting new connection
+2022-11-09 18:40:04 Configured host
+2022-11-09 18:40:04 Assigned socket
+2022-11-09 18:40:04 Bound socket
+2022-11-09 18:40:04 Listening for incoming connections
+2022-11-09 18:40:06 127.0.0.1 accepting new connection
+2022-11-09 18:40:58 Configured host
+2022-11-09 18:40:58 Assigned socket
+2022-11-09 18:41:06 Configured host
+2022-11-09 18:41:06 Assigned socket
+2022-11-09 18:41:17 Configured host
+2022-11-09 18:41:17 Assigned socket
+2022-11-09 18:41:17 Bound socket
+2022-11-09 18:41:17 Listening for incoming connections
+2022-11-09 18:41:21 127.0.0.1 accepting new connection
+2022-11-09 18:42:06 Configured host
+2022-11-09 18:42:06 Assigned socket
+2022-11-09 18:42:08 Configured host
+2022-11-09 18:42:08 Assigned socket
+2022-11-09 18:42:11 Configured host
+2022-11-09 18:42:11 Assigned socket
+2022-11-09 18:42:36 Configured host
+2022-11-09 18:42:36 Assigned socket
+2022-11-09 18:42:36 Bound socket
+2022-11-09 18:42:36 Listening for incoming connections
+2022-11-09 18:42:40 127.0.0.1 accepting new connection
+2022-11-09 18:43:54 Configured host
+2022-11-09 18:43:54 Assigned socket
+2022-11-09 18:43:54 Bound socket
+2022-11-09 18:43:54 Listening for incoming connections
+2022-11-09 18:43:57 127.0.0.1 accepting new connection
+2022-11-09 18:47:16 Configured host
+2022-11-09 18:47:16 Assigned socket
+2022-11-09 18:47:16 Bound socket
+2022-11-09 18:47:16 Listening for incoming connections
+2022-11-09 18:47:21 127.0.0.1 accepting new connection
+2022-11-09 18:48:15 Configured host
+2022-11-09 18:48:15 Assigned socket
+2022-11-10 11:53:48 Configured host
+2022-11-10 11:53:48 Assigned socket
+2022-11-10 11:53:48 Bound socket
+2022-11-10 11:53:48 Listening for incoming connections
+2022-11-10 11:53:53 127.0.0.1 accepting new connection
+2022-11-10 11:53:59 127.0.0.1 sent URL: 
+2022-11-10 11:53:59 127.0.0.1 
+2022-11-10 11:54:06 127.0.0.1 accepting new connection
+2022-11-10 11:54:11 127.0.0.1 sent URL: 
+2022-11-10 11:54:11 127.0.0.1 

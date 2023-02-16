@@ -1,13 +1,14 @@
-all: QRServer.c connect.c
-	gcc -g -o QRServer QRServer.c
-	gcc -g -o connect connect.c
+all: QRServer.c client.c
+	gcc -g -o QRServer QRServer.c -lpthread
+	gcc -g -o client client.c
 	
 QRServer: QRServer.c
-	gcc -g -o QRServer QRServer.c
+	gcc -g -o QRServer QRServer.c -lpthread
 	
-connect: connect.c
-	gcc -g -o connect connect.c
+client: client.c
+	gcc -g -o client client.c
 
-clean: QRServer.c connect.c
-	rm -f QRServer connect
-	gcc -g -o QRServer QRServer.c
+clean: QRServer.c client.c
+	rm -f QRServer client
+	gcc -g -o QRServer QRServer.c -lpthread
+	gcc -g -o client client.c

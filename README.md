@@ -1,6 +1,11 @@
 # QRServer
 Linux-based Server and Client code for a server that Decodes QR Codes sent by concurrent clients.  It returns the decoded URL
 
+Supports networking security features:
+- Rate limiting
+- Max concurrency
+- Inactivity timeout
+
 Compile both files with "make all".
 
 Run the server with "./QRServer" and the client afterwards with "./connect".
